@@ -1,6 +1,6 @@
 <!-- TITLE -->
-<h1 align="center"><strong>Astha Singh</strong></h1>
-<h3 align="center">AI & ML Engineer • Full-Stack Developer</h3>
+<h1 align="center" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px;"><strong>Astha Singh</strong></h1>
+<h3 align="center" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 10px;">AI & ML Engineer • Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2700&pause=1000&color=6E57E0&center=true&vCenter=true&width=750&lines=AI+Engineer+|+ML+%26+DL+|+NLP;Full-Stack+Developer+(MERN);Building+Intelligent,+Secure+Systems" />
@@ -8,28 +8,32 @@
 
 ---
 
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
+
 ## Profile
-I build *intelligent systems, design **scalable applications, and deliver **research-driven AI solutions* that combine ML, full-stack engineering, and modern security practices.  
+I build *intelligent systems, design **scalable applications**, and deliver **research-driven AI solutions*** that combine ML, full-stack engineering, and modern security practices.  
 I work at the intersection of *AI Engineering • Product Development*.
 
-*Focus Areas:*
+**Focus Areas:**
 - Machine Learning & Deep Learning  
 - NLP & LLM-based pipelines 
 - Blockchain & Cryptography for secure systems  
 - Full-Stack Development (React, Node.js, Firebase)
 
----
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
 ## Technical Expertise
 
-*Programming Languages:*  
+**Programming Languages:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 
-*Machine Learning / AI:*  
+**Machine Learning / AI:**  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> 
@@ -39,15 +43,17 @@ I work at the intersection of *AI Engineering • Product Development*.
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" /> 
 <img src="https://img.shields.io/badge/NLTK-154c79?style=flat-square" />
 
-*Full-Stack / Tools:*  
+**Full-Stack / Tools:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
----
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
 ## Featured Projects
 
@@ -57,15 +63,11 @@ I work at the intersection of *AI Engineering • Product Development*.
 | *VeriCreate* | AI-powered content verification with blockchain-based authenticity | MERN, Aptos, Ethereum, LLMs | [GitHub](https://github.com/astha1504/VeriCreate) |
 | *JanDarpan* | Real-time NLP grievance redressal platform with dashboard | React, Node.js, Firebase | [GitHub](https://github.com/astha1504/JanDarpan) |
 
----
+</div>
 
-## Research
-*AI-Driven Federated Homomorphic Anomaly Detection (FHAD)*  
-Submitted to *Springer LNCS* — A privacy-preserving anomaly detection framework using *Federated Learning + Homomorphic Encryption* for decentralized secure analytics.
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
----
-
-## *GitHub Insights*
+## GitHub Insights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&theme=transparent&hide_border=true&title_color=6E57E0&icon_color=6E57E0" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&theme=transparent&hide_border=true&title_color=6E57E0" />
@@ -74,9 +76,9 @@ Submitted to *Springer LNCS* — A privacy-preserving anomaly detection framewor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=astha1504&theme=transparent&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakNum=6E57E0" />
 </p>
 
+</div>
 
----
-
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
 ## Achievements
 
@@ -87,7 +89,9 @@ Submitted to *Springer LNCS* — A privacy-preserving anomaly detection framewor
 | **IDEATE Hackathon** |  2nd Place | Smart City Innovation |
 | **Engineers' Day AI Challenge** |  Winner | AI Idea Innovation |
 
----
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
 ## Let's Connect
 
@@ -106,3 +110,5 @@ Submitted to *Springer LNCS* — A privacy-preserving anomaly detection framewor
 <p align="center">
   <i>Open to collaborations in AI/ML, blockchain, and full-stack development</i>
 </p>
+
+</div>
