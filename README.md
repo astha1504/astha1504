@@ -1,5 +1,6 @@
-# Astha Singh
-### AI & ML Engineer • Full-Stack Developer • Product Builder
+<!-- TITLE -->
+<h1 align="center"><strong>Astha Singh</strong></h1>
+<h3 align="center">AI & ML Engineer • Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2700&pause=1000&color=6E57E0&center=true&vCenter=true&width=750&lines=AI+Engineer+|+ML+%26+DL+|+NLP;Full-Stack+Developer+(MERN);Building+Intelligent,+Secure+Systems" />
@@ -7,7 +8,7 @@
 
 ---
 
-## 👩‍💻 Profile
+## Profile
 I build **intelligent systems**, design **scalable applications**, and deliver **research-driven AI solutions** that combine ML, full-stack engineering, and modern security practices.  
 I work at the intersection of **AI Engineering • Product Development • Applied Security**.
 
@@ -20,7 +21,7 @@ I work at the intersection of **AI Engineering • Product Development • Appli
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 **Programming Languages:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
@@ -50,7 +51,7 @@ I work at the intersection of **AI Engineering • Product Development • Appli
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
@@ -60,31 +61,24 @@ I work at the intersection of **AI Engineering • Product Development • Appli
 
 ---
 
-## 📚 Research
+## Research
 **AI-Driven Federated Homomorphic Anomaly Detection (FHAD)**  
 Submitted to **Springer LNCS** — A privacy-preserving anomaly detection framework using **Federated Learning + Homomorphic Encryption** for decentralized secure analytics.
 
 ---
 
-## 🔭 What I’m Working On
-- Finalizing **FHAD experiments** for privacy-preserving anomaly detection  
-- Enhancing **VeriCreate** with improved LLM pipelines + Aptos blockchain verification  
-- Automating **BharatVault CI/CD** with encrypted IPFS backups
-
----
-
-## 📊 GitHub Insights
+## **GitHub Insights**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&theme=default&hide_border=true&title_color=6E57E0&icon_color=6E57E0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&theme=default&hide_border=true&title_color=6E57E0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&theme=transparent&hide_border=true&title_color=6E57E0&icon_color=6E57E0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&theme=transparent&hide_border=true&title_color=6E57E0" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=astha1504&theme=default&hide_border=true&ring=6E57E0&fire=6E57E0" />
+  <img src="https://streak-stats.demolab.com?user=astha1504&theme=transparent&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakNum=6E57E0" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - Semifinalist — Flipkart GRiD 6.0 (Software)  
 - Finalist — BitBox 5.0 (Top 1% among 3000+ teams)  
 - 2nd Place — IDEATE Hackathon (Smart City)  
@@ -92,11 +86,9 @@ Submitted to **Springer LNCS** — A privacy-preserving anomaly detection framew
 
 ---
 
-## 📫 Contact
+## Contact
 <p align="center">
   <a href="mailto:asthasingh00442@gmail.com"><img src="https://img.shields.io/badge/Email-6E57E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/astha-singh-8b6a4a291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/astha1504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<sub>Clean • Minimal • Recruiter-Friendly • Technical</sub>
