@@ -71,8 +71,9 @@ Submitted to *Springer LNCS* — A privacy-preserving anomaly detection framewor
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&theme=transparent&hide_border=true&title_color=6E57E0" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=astha1504&theme=transparent&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakNum=6E57E0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astha1504&theme=transparent&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakNum=6E57E0" />
 </p>
+
 
 ---
 
