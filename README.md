@@ -1,10 +1,10 @@
 <!-- TITLE -->
 <h1 align="center"><strong>Astha Singh</strong></h1>
-<h3 align="center">AI & ML Engineer • Full-Stack Developer • Applied Researcher</h3>
+<h3 align="center">AI & ML Engineer • Full-Stack Developer </h3>
 
 <!-- TYPING BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2700&pause=1000&color=6E57E0&center=true&vCenter=true&width=750&lines=AI+Engineer+specializing+in+ML%2C+DL%2C+NLP;Full-Stack+Developer+(MERN)+%7C+Product+Builder;Researcher+in+Federated+Learning+and+Homomorphic+Encryption;Building+Intelligent%2C+Secure+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2700&pause=1000&color=6E57E0&center=true&vCenter=true&width=750&lines=AI+Engineer+specializing+in+ML%2C+DL%2C+NLP;Full-Stack+Developer+(MERN)+%7C+Product+Builder;Building+Intelligent%2C+Secure+and+Scalable+Systems" />
 </p>
 
 ---
