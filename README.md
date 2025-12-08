@@ -70,19 +70,15 @@ I work at the intersection of *AI Engineering • Product Development*.
 ## GitHub Insights
 
 <p align="center">
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&hide_border=false" />
+  <!-- Added theme parameter and removed problematic height -->
+  <img src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&theme=default&hide_border=false" />
        
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
-  <img 
-       src="https://streak-stats.demolab.com?user=astha1504&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=astha1504&hide_border=false" />
 </p>
-
-
 
 
 ## Achievements
