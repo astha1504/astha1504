@@ -67,20 +67,21 @@ I work at the intersection of *AI Engineering • Product Development*.
 
 <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; margin-bottom: 20px;">
 
-## *GitHub Insights*
+## GitHub Insights
 
 <p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=7200&theme=transparent&hide_border=true&title_color=6E57E0&icon_color=6E57E0" />
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=astha1504&show_icons=true&hide_border=false" />
        
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&cache_seconds=7200&theme=transparent&hide_border=true&title_color=6E57E0" />
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha1504&layout=compact&hide_border=false" />
 </p>
 
 <p align="center">
   <img 
-       src="https://streak-stats.demolab.com?user=astha1504&hide_border=true&theme=transparent&ring=6E57E0&fire=6E57E0&currStreakNum=6E57E0&cache_seconds=7200" />
+       src="https://streak-stats.demolab.com?user=astha1504&hide_border=false" />
 </p>
+
 
 
 
