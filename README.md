@@ -16,8 +16,9 @@ I work at the intersection of *AI Engineering • Product Development*.
 
 **Focus Areas:**
 - Machine Learning & Deep Learning  
-- NLP & LLM-based pipelines 
-- Blockchain & Cryptography for secure systems  
+- NLP & LLM-based pipelines
+- MLOps
+- Artificial Intelligence
 - Full-Stack Development (React, Node.js, Firebase)
 
 </div>
@@ -60,8 +61,8 @@ I work at the intersection of *AI Engineering • Product Development*.
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | *BharatVault* | Decentralized document vault with IPFS-based storage, access control, and secure hashing | MERN, IPFS, React | [GitHub](https://github.com/astha1504/BharatVault) |
-| *VeriCreate* | AI-powered content verification with blockchain-based authenticity | MERN, Aptos, Ethereum, LLMs | [GitHub](https://github.com/astha1504/VeriCreate) |
-| *JanDarpan* | Real-time NLP grievance redressal platform with dashboard | React, Node.js, Firebase | [GitHub](https://github.com/astha1504/JanDarpan) |
+| *VeriCreate* | AI-powered and Ethereum-based hashing to verify content integrity and enabled bulk and custom image generation | MERN, Aptos, Ethereum, LLMs | [GitHub](https://github.com/astha1504/VeriCreate) |
+| *Invoice Intelligent System* | AI-powered invoice system for verification, anomaly detection, and freight prediction. | Python, Pandas, Scikit-learn, Streamlit | [GitHub](https://github.com/astha1504/Invoice-Intelligent-System) |
 
 </div>
 
