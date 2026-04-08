@@ -110,7 +110,7 @@ I work at the intersection of *AI Engineering • Product Development*.
 </p>
 
 <p align="center">
-  <i>Open to collaborations in AI/ML, blockchain, and full-stack development</i>
+  <i>Open to collaborations in AI/ML, DS and full-stack development</i>
 </p>
 
 </div>
